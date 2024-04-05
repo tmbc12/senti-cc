@@ -1,1 +1,1 @@
-# senti-cc
+# sentient
